@@ -23,6 +23,7 @@
   },
   "name":"work_shop",
   "resources":[
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"oEnemy2","path":"objects/oEnemy2/oEnemy2.yy",},},
     {"id":{"name":"oEnemy3","path":"objects/oEnemy3/oEnemy3.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
