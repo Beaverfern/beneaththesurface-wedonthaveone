@@ -22,7 +22,8 @@
   },
   "name":"work_shop",
   "resources":[
-    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
+    {"id":{"name":"oEnemy2","path":"objects/oEnemy2/oEnemy2.yy",},},
+    {"id":{"name":"oEnemy3","path":"objects/oEnemy3/oEnemy3.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oslime","path":"objects/oslime/oslime.yy",},},
     {"id":{"name":"oSolid","path":"objects/oSolid/oSolid.yy",},},
@@ -30,6 +31,8 @@
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Shader1","path":"shaders/Shader1/Shader1.yy",},},
+    {"id":{"name":"enemy2","path":"sprites/enemy2/enemy2.yy",},},
+    {"id":{"name":"enemy3","path":"sprites/enemy3/enemy3.yy",},},
     {"id":{"name":"player","path":"sprites/player/player.yy",},},
     {"id":{"name":"slime","path":"sprites/slime/slime.yy",},},
     {"id":{"name":"tree","path":"sprites/tree/tree.yy",},},
