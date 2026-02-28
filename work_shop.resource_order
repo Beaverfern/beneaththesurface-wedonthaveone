@@ -1,0 +1,30 @@
+{
+  "FolderOrderSettings":[
+    {"name":"group1","order":1,"path":"folders/group1.yy",},
+    {"name":"objects","order":2,"path":"folders/objects.yy",},
+  ],
+  "ResourceOrderSettings":[
+<<<<<<< Updated upstream
+    {"name":"oBat","order":8,"path":"objects/oBat/oBat.yy",},
+    {"name":"oCorpse","order":7,"path":"objects/oCorpse/oCorpse.yy",},
+=======
+>>>>>>> Stashed changes
+    {"name":"oEnemy2","order":6,"path":"objects/oEnemy2/oEnemy2.yy",},
+    {"name":"oEnemy3","order":4,"path":"objects/oEnemy3/oEnemy3.yy",},
+    {"name":"oslime","order":1,"path":"objects/oslime/oslime.yy",},
+    {"name":"oSolid","order":3,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"otree","order":2,"path":"objects/otree/otree.yy",},
+    {"name":"oWall","order":5,"path":"objects/oWall/oWall.yy",},
+    {"name":"Shader1","order":3,"path":"shaders/Shader1/Shader1.yy",},
+    {"name":"bat","order":7,"path":"sprites/bat/bat.yy",},
+    {"name":"corpse","order":6,"path":"sprites/corpse/corpse.yy",},
+    {"name":"enemy2","order":4,"path":"sprites/enemy2/enemy2.yy",},
+<<<<<<< Updated upstream
+=======
+    {"name":"enemy3","order":5,"path":"sprites/enemy3/enemy3.yy",},
+>>>>>>> Stashed changes
+    {"name":"slime","order":1,"path":"sprites/slime/slime.yy",},
+    {"name":"tree","order":2,"path":"sprites/tree/tree.yy",},
+    {"name":"wall","order":3,"path":"sprites/wall/wall.yy",},
+  ],
+}
